@@ -1,0 +1,1 @@
+python3 src/trainer.py $1 model/model.pickle
