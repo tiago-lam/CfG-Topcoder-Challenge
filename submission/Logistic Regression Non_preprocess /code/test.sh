@@ -1,1 +1,0 @@
-python3 src/tester.py $1 $2 model/tpc_model.pickle
